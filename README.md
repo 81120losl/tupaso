@@ -2,7 +2,7 @@
  
 #EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
  
-https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
+https://prod-live-us-central1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_3Es260R7/wixmp-3dbd5cb16bb136182e099f78_3Es260R7_.m3u8
 
 #EXTINF:-1, TOTALPLAY TV
 https://prod-live-us-central1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_3Es260R7/wixmp-3dbd5cb16bb136182e099f78_3Es260R7_.m3u8
