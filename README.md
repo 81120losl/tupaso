@@ -11,3 +11,4 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE05.m3u8
 #EXTINF:-1, AZTECA 7
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE05.m3u8
 #EXTINF:-1, AZTECA 1
+http://bitly.ws/zP98
